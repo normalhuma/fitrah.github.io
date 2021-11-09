@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #2dc997;
+  background: #d425d7;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: #f008ff;
   font-size: 14px;
   padding: 0 4px;
   white-space: nowrap;
@@ -173,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
   transform: scaleX(1);
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #fff;
+  color: #5b059d;
 }
 .navbar .dropdown ul {
   display: block;
@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #2dc997;
+  color: #bd1fff;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -552,7 +552,7 @@ section {
 #facts .counters span {
   font-size: 48px;
   display: block;
-  color: #2dc997;
+  color: #bf2dc9;
 }
 #facts .counters p {
   padding: 0;
@@ -591,7 +591,7 @@ section {
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #2dc997;
+  background: #8b148d;
 }
 #services .icon a {
   display: inline-block;
@@ -603,10 +603,10 @@ section {
 }
 #services .box:hover .icon {
   background: #fff;
-  border: 2px solid #2dc997;
+  border: 2px solid #d425d7;
 }
 #services .box:hover .icon i {
-  color: #2dc997;
+  color: #d425d7;
 }
 #services .box:hover .icon a {
   color: #2dc997;
@@ -981,7 +981,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #343b40;
-  padding: 30px 0;
+  padding: 10px 0;
   color: #fff;
   font-size: 14px;
 }
